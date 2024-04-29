@@ -58,7 +58,7 @@ nav .logo_text {
 }
 
 nav .logo_text p {
-    font-size: 20px;
+    font-size: 50px; /*20px*/
 }
 
 nav .nav_logo a {
