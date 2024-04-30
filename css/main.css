@@ -545,11 +545,11 @@ nav .nav_list ul li a {
 }
 
 .product_main_container .product_container:nth-child(2) .product_pic {
-    background-image: url('./../img/crowdfunding.png')
+    background-image: url('./../img/hand.png')
 }
 
 .product_main_container .product_container:nth-child(3) .product_pic {
-    background-image: url('./../img/hand.png')
+    background-image: url('./../img/finance.png')
 }
 
 .product_main_container .product_container:nth-child(4) .product_pic {
