@@ -1484,7 +1484,7 @@ header p {
 @media screen and (max-width:767px) {
     /*logo*/
     .logo_container {
-        height: 600px; //375px
+        height: 375px; //375px
     }
     .logo {
         width: 300px;
