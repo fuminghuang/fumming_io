@@ -132,15 +132,30 @@ function award_more_btn() {
 
 function product_more_btn() {
     $('#pd1').click(function() {
-        window.open('http://simi.turinginsight.tech')
+        window.open('http://turinginsight.tech/')
+    })
+    $('#pd2').click(function() {
+        window.open('http://turinginsight.tech/')
     })
     $('#pd3').click(function() {
-        window.open('http://pipi.turinginsight.tech')
+        window.open('http://turinginsight.tech/')
     })
     $('#pd4').click(function() {
-        window.open('http://thisai.turinginsight.tech')
+        window.open('http://https://medium.com/if-lab-ai')
     })
     $('#pd5').click(function() {
-        window.open('http://pstracker.turinginsight.tech/')
+        window.open('http://pipi.turinginsight.tech')
+    })
+    $('#pd6').click(function() {
+        window.open('http://fumming.io/')
+    })
+    $('#pd7').click(function() {
+        window.open('http://fumming.io/')
+    })
+    $('#pd8').click(function() {
+        window.open('http://fumming.io/')
+    })
+    $('#pd9').click(function() {
+        window.open('http://fumming.io/')
     })
 }
