@@ -132,30 +132,30 @@ function award_more_btn() {
 
 function product_more_btn() {
     $('#pd1').click(function() {
-        window.open('http://turinginsight.tech/')
+        window.open('http://ti.fumming.io')
     })
     $('#pd2').click(function() {
-        window.open('http://turinginsight.tech/')
+        window.open('http://simi.fumming.io')
     })
     $('#pd3').click(function() {
-        window.open('http://turinginsight.tech/')
+        window.open('http://fumming.io')
     })
     $('#pd4').click(function() {
-        window.open('http://https://medium.com/if-lab-ai')
+        window.open('http://ai.fumming.io')
     })
     $('#pd5').click(function() {
-        window.open('http://pipi.turinginsight.tech')
+        window.open('http://pipi.fumming.io')
     })
     $('#pd6').click(function() {
-        window.open('http://fumming.io/')
+        window.open('http://fumming.io')
     })
     $('#pd7').click(function() {
-        window.open('http://fumming.io/')
+        window.open('http://fumming.io')
     })
     $('#pd8').click(function() {
-        window.open('http://fumming.io/')
+        window.open('http://fumming.io')
     })
     $('#pd9').click(function() {
-        window.open('http://fumming.io/')
+        window.open('http://fumming.io')
     })
 }
