@@ -512,7 +512,7 @@ nav .nav_list ul li a {
 }
 
 .product_container {
-    width: 33%;
+    width: 100%;  /* 33% */
     height: 100%;
     margin-bottom: 40px;
 }
