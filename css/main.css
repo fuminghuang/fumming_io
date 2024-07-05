@@ -389,8 +389,8 @@ nav .nav_list ul li a {
     width: 100%;
     padding: 20px;
     display: flex; 
-    justify-content: flex-end;  /* center */
-    align-items: flex-end;   /* center */
+    justify-content: center;  /* center */
+    align-items: center;   /* center */
 }
 
 .content h3 {
