@@ -309,7 +309,7 @@ nav .nav_list ul li a {
 
 .container .card {
     position: relative;
-    height: 200px;  /* 400px */
+    height: 100px;  /* 400px */
     background-color: #fff;
     display: flex;
     width: 100%;   /* 28% */
