@@ -346,7 +346,7 @@ nav .nav_list ul li a {
     left: calc(50% - 75px);
     top: -60px;
     transition: 0.5s ease-in-out;
-    background-color: #ff0057;
+    background-color: rgba(255, 0, 151, .7); /* #ff0057 */
 }
 
 
