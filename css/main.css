@@ -196,7 +196,7 @@ nav .nav_list ul li a {
     display: flex;
     justify-content: center;
     width: 100%;
-    height: 450px; //450px
+    height: 70%; //450px
 }
 
 .logo {
@@ -204,9 +204,9 @@ nav .nav_list ul li a {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    height: 450px; /*350px*/
-    width: 450px;
-    margin-top: 50px;  /* 100px */
+    height: 100%; /* 350 px*/
+    /% 原本 width: 450px; %/
+    margin-top: 10%;  /* 100px */
     /*	animation-name: floatingLogo ;
   	animation-duration: 2s ;
   	animation-direction: alternate;
