@@ -252,6 +252,7 @@ nav .nav_list ul li a {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 95vh !important;  /* 100vh */
 }
 
 .card_title_container {
@@ -302,7 +303,7 @@ nav .nav_list ul li a {
     position: relative;
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center; /* space-between */
     flex-wrap: wrap;
     /*margin: 0 5%;*/
 }
