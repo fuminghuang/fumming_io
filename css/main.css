@@ -495,8 +495,8 @@ nav .nav_list ul li a {
 .card_P {
     display: flex;
     height: 50vh !important;  /* 95vh */
-    justify-content: start;
-    align-items: start;
+    justify-content: center;
+    align-items: center;
     overflow: scroll;
     background-image: url('./../img/angus_park.webp');
     background-repeat: no-repeat;
