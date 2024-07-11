@@ -499,6 +499,7 @@ nav .nav_list ul li a {
     align-items: center;
     overflow: scroll;
     background-image: url('./../img/angus_park.webp');
+    background-origin: border-box;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
