@@ -503,7 +503,7 @@ nav .nav_list ul li a {
     background-origin: border-box;
     background-repeat: no-repeat;
     background-position: top;
-    background-attachment: fixed;
+    background-attachment: scroll;
 }
 
 
