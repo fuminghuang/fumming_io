@@ -494,7 +494,7 @@ nav .nav_list ul li a {
 /* card_P */
 .card_P {
     display: flex;
-    height: 50vh !important;  /* 95vh */
+    height: 95vh !important;  /* 95vh */
     justify-content: center;
     align-items: center;
     overflow: scroll;
@@ -503,7 +503,7 @@ nav .nav_list ul li a {
     /*  background-origin: border-box; */
     background-repeat: no-repeat;
     background-position: top;
-    background-attachment: local;   /* scroll, fixed, local,  */ 	/*  local, scroll; */ 	/* scroll, local; */
+    background-attachment: fixed;   /* scroll, fixed, local,  */ 	/*  local, scroll; */ 	/* scroll, local; */
 
 }
 
