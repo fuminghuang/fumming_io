@@ -500,10 +500,11 @@ nav .nav_list ul li a {
     overflow: scroll;
     background-image: url('./../img/angus_park.webp');
     background-size: 100%;
-    background-origin: border-box;
+    /*  background-origin: border-box; */
     background-repeat: no-repeat;
     background-position: top;
-    background-attachment: scroll;
+    background-attachment: fixed;   /* scroll, fixed, local,  */ 	/*  local, scroll; */ 	/* scroll, local; */
+
 }
 
 
