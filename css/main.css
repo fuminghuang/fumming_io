@@ -492,16 +492,19 @@ nav .nav_list ul li a {
 
 
 /* card_P */
-
 .card_P {
     display: flex;
-    height: 95vh !important;  /* 100vh */
+    height: 50vh !important;  /* 95vh */
+    justify-content: start;
+    align-items: start;
+    overflow: scroll;
     background-image: url('./../img/angus_park.webp');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
 }
+
 
 /*card3*/
 
