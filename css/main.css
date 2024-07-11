@@ -491,6 +491,20 @@ nav .nav_list ul li a {
 }
 
 
+/* card_P */
+
+.card_P {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh !important;  /* 100vh */
+    background-image: url('./../img/angus_park.webp');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 /*card3*/
 
 .card3 {
