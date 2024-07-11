@@ -494,7 +494,7 @@ nav .nav_list ul li a {
 /* card_P */
 .card_P {
     display: flex;
-    height: 95vh !important;  /* 95vh */
+    height: 50vh !important;  /* 95vh */
     justify-content: center;
     align-items: center;
     overflow: scroll;
