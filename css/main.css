@@ -190,6 +190,7 @@ nav .nav_list ul li a {
     justify-content: center;
     align-items: center;
     height: 95vh !important;  /* 100vh */
+    background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
 }
 
 .logo_container {
@@ -498,9 +499,9 @@ nav .nav_list ul li a {
     justify-content: center;
     align-items: center;
     overflow: scroll;
-    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
     /* background-color: #02b0f1; */
-    /* background-image: url('./../img/angus_park.webp'); */
+    background-image: url('./../img/angus_park.webp'); 
     background-size: 100%;
     /*  background-origin: border-box; */
     background-repeat: no-repeat;
