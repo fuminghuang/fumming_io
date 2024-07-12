@@ -522,8 +522,8 @@ nav .nav_list ul li a {
     overflow: hidden;
     min-height: 100vh;
 	
-    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
-    background-attachment: fixed;
+    /* background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);  */
+    /* background-attachment: fixed;  */
 }
 
 .product_main_container {
@@ -562,7 +562,7 @@ nav .nav_list ul li a {
     background-size: 65%;
     background-position: center;
     background-repeat: no-repeat;
-    border: 4px dashed #afafaf;
+    border: 4px dashed #afafaf; /* 4px */
 }
 
 .product_main_container .product_container:nth-child(1) .product_pic {
@@ -596,7 +596,7 @@ nav .nav_list ul li a {
     border: 1px solid;
     border-radius: 10px;
     margin: 0 1vw;
-    border: 5px solid #4f9df1;
+    border: 8px solid #4f9df1;  /* 5px */
 }
 
 .product_intro {
