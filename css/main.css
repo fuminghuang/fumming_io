@@ -498,7 +498,7 @@ nav .nav_list ul li a {
     justify-content: center;
     align-items: center;
     overflow: scroll;
-    background-color: linear-gradient(to top, #c5d5fa, #c3dc99);
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
     /* background-color: #02b0f1; */
     background-image: url('./../img/angus_park.webp');
     background-size: 100%;
