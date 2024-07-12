@@ -189,9 +189,9 @@ nav .nav_list ul li a {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 95vh !important;  /* 100vh */
-    background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
-    background-attachment: fixed; 
+    height: 95vh !important;  /* 100vh */ 
+    /*  background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);  */
+    /*  background-attachment: fixed;  */
 }
 
 .logo_container {
