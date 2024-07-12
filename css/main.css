@@ -498,7 +498,7 @@ nav .nav_list ul li a {
     justify-content: center;
     align-items: center;
     overflow: scroll;
-    background-color: black;
+    background-color: #0D47A1;
     background-image: url('./../img/angus_park.webp');
     background-size: 100%;
     /*  background-origin: border-box; */
@@ -512,7 +512,6 @@ nav .nav_list ul li a {
 /*card3*/
 
 .card3 {
-    background-color: brown;
     height: unset;
     display: flex;
     justify-content: center;
