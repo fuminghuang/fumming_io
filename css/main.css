@@ -47,7 +47,7 @@ nav .nav_logo {
     background-position: center center;
     background-size: cover;
     height: 80px;
-    /* width: 80px; */
+    width: 400px;  /* 80px */
 }
 
 nav .logo_text {
