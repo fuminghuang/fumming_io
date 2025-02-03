@@ -206,8 +206,8 @@ nav .nav_list ul li a {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    height: 600px; /* 350 px*/
-    width: 600px; /* 450 px*/
+    height: 500px; /* 350 px*/
+    width: 500px; /* 450 px*/
     margin-top: 80px;  /* 100px */
     /*	animation-name: floatingLogo ;
   	animation-duration: 2s ;
