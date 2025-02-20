@@ -45,7 +45,7 @@ nav .nav_logo {
     background-image: url('./../img/fumming_logo_trans_4.png');
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
+    background-size: contain; /* cover */
     height: 80px;
     width: 80px;  /* 80px */
 }
@@ -205,7 +205,7 @@ nav .nav_list ul li a {
     background-image: url('./../img/fumming_logo_trans_4.png');
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: contain; /* cover px*/
+    background-size: contain; /* cover */
     height: 500px; /* 350 px*/
     width: 500px; /* 450 px*/
     margin-top: 80px;  /* 80px or 100px */
