@@ -41,7 +41,7 @@ nav .nav_container {
 }
 
 nav .nav_logo {
-    margin: 0px 0px; /* 0 10px */
+    margin: 0px 0px 50px 0px; /* 0 10px */ /* top, bottom, right, left */
     background-image: url('./../img/fumming_logo_trans_4.png');
     background-repeat: no-repeat;
     background-position: center center;
